@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{2EFADB3E-744C-410C-B226-B320C86AAADB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="P137PRONIA2/Views/_ViewImports.cshtml">
+    <Files>
+      <File FileName="P137PRONIA2/Areas/Manage/Views/_ViewImports.cshtml" Line="3" Column="19" IsPinned="True" />
+      <File FileName="P137PRONIA2/Areas/Manage/Controllers/SliderController.cs" Line="98" Column="2" />
+      <File FileName="P137PRONIA2/Views/_ViewImports.cshtml" Line="3" Column="30" />
+      <File FileName="P137PRONIA2/Services/Implements/SliderService.cs" Line="66" Column="2" />
+      <File FileName="P137PRONIA2/Services/Interfaces/ISliderService.cs" Line="9" Column="1" />
+      <File FileName="P137PRONIA2/Program.cs" Line="21" Column="75" />
+      <File FileName="P137PRONIA2/appsettings.json" Line="14" Column="1" />
+      <File FileName="P137PRONIA2/DataAccess/ProniaDbContext.cs" Line="20" Column="2" />
+      <File FileName="P137PRONIA2/Views/Home/Index.cshtml" Line="4" Column="10" />
+      <File FileName="P137PRONIA2/Views/Shared/_Layout.cshtml" Line="1" Column="2" />
+      <File FileName="P137PRONIA2/Areas/Manage/Views/Slider/Create.cshtml" Line="33" Column="8" />
+      <File FileName="P137PRONIA2/Areas/Manage/Views/Slider/Index.cshtml" Line="72" Column="2" />
+      <File FileName="P137PRONIA2/Areas/Manage/Views/Slider/Update.cshtml" Line="35" Column="8" />
+      <File FileName="P137PRONIA2/Controllers/HomeController.cs" Line="25" Column="30" />
+      <File FileName="P137PRONIA2/Models/BaseEntity.cs" Line="7" Column="6" />
+      <File FileName="P137PRONIA2/Models/Product.cs" Line="25" Column="6" />
+      <File FileName="P137PRONIA2/Models/ProductImage.cs" Line="13" Column="6" />
+      <File FileName="P137PRONIA2/ViewModels/IndexVMs/HomeVM.cs" Line="10" Column="6" />
+      <File FileName="P137PRONIA2/ViewModels/ProductVMs/CreateProductVM.cs" Line="24" Column="6" />
+      <File FileName="P137PRONIA2/Services/Interfaces/IProductService.cs" Line="12" Column="8" />
+      <File FileName="P137PRONIA2/Services/Implements/ProductService.cs" Line="74" Column="48" />
+      <File FileName="P137PRONIA2/ExtensionServices/Interfaces/IFileService.cs" Line="8" Column="30" />
+      <File FileName="P137PRONIA2/ExtensionServices/Implements/FileService.cs" Line="57" Column="2" />
+      <File FileName="P137PRONIA2/Extensions/FileExtension.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="P137PRONIA2" expanded="True">
+            <Node name="P137PRONIA2" expanded="True">
+              <Node name="Areas" expanded="True">
+                <Node name="Manage" expanded="True">
+                  <Node name="Controllers" expanded="True" />
+                  <Node name="Views" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccess" expanded="True" />
+              <Node name="Extensions" expanded="True" />
+              <Node name="ExtensionServices" expanded="True">
+                <Node name="Implements" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Implements" expanded="True" />
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+              <Node name="ViewModels" expanded="True">
+                <Node name="ProductVMs" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.P137PRONIA2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
